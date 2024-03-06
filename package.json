@@ -1,0 +1,11 @@
+{
+  "name": "js-joke-project",
+  "version": "1.0.0",
+  "description": "Jokes generator using JS",
+  "main": "JS_joke_generator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael",
+  "license": "ISC"
+}
