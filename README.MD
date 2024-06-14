@@ -1,6 +1,6 @@
 # JS Joke Generator
 
-This is a simple JavaScript program that generates a random joke when run from the command line.
+This is a simple JavaScript program that generates a random joke when ran from the command line.
 
 ## Installation
 
